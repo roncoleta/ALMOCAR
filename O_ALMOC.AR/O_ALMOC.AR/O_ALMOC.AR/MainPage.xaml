@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="O_ALMOC.AR.MainPage">
+
+    <StackLayout BackgroundColor="#ff914d">
+        <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            
+            <Image Source="Logotipo.jpg" AbsoluteLayout.LayoutBounds=" 0, 0, 100, 100" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Label IsVisible="true"  Text="Ainda não sabe o que vai comer hoje?" TextColor="White" FontSize="28" FontFamily="arial" HorizontalTextAlignment="Center" FontAttributes="Bold" AbsoluteLayout.LayoutBounds=" 0.5, 0.18, 300, 300" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Button IsVisible="true" Clicked="clicked" HorizontalOptions="Center" BackgroundColor="#FFE2D0" Text="Clique Aqui" TextColor="Black" FontSize="30" CornerRadius="70" FontAttributes="Bold" AbsoluteLayout.LayoutBounds=" 0.5, 0.25, 1000 ,80" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Frame BackgroundColor="#FFE2D0" AbsoluteLayout.LayoutBounds=" 0.5, 2, 500, 500" AbsoluteLayout.LayoutFlags="PositionProportional" CornerRadius="500"/>
+            <Label Text="Todos os direitos reservados©" TextColor="#ff914d" FontSize="15" FontFamily="arial"  FontAttributes="Bold" AbsoluteLayout.LayoutBounds=" 0, 1.52, 400, 300" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+
+
+            <ScrollView>
+                <Text Source ="{Binding receita}" TextColor="black" BackgroundColor="#FFE2D0" FontSize="20" FontFamily="arial"  FontAttributes="Bold" AbsoluteLayout.LayoutBounds=" 0, 1.6, 400, 300" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Image Source="{Binding foto}" />
+            </ScrollView>
+        </AbsoluteLayout>
+    </StackLayout>
+</ContentPage>

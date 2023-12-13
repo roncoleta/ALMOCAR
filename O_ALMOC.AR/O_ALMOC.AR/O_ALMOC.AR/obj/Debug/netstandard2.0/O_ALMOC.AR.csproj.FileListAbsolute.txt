@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\bin\Debug\netstandard2.0\O_ALMOC.AR.deps.json
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\bin\Debug\netstandard2.0\O_ALMOC.AR.dll
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\bin\Debug\netstandard2.0\O_ALMOC.AR.pdb
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.dll
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\refint\O_ALMOC.AR.dll
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\O_ALMOC.AR.pdb
+C:\Users\Usuario\source\repos\O_ALMOC.AR\O_ALMOC.AR\O_ALMOC.AR\obj\Debug\netstandard2.0\ref\O_ALMOC.AR.dll

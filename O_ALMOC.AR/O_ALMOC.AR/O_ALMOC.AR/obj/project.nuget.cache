@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSg20KIlmv/zFNOaZ6o+Cu4ilbrP2ZPV5+8vO6ISIm8ZmJnTHQp+HQwhvVPXa+He95NILJx1xftI8Hxpd4ciWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\O_ALMOC.AR\\O_ALMOC.AR\\O_ALMOC.AR\\O_ALMOC.AR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
